@@ -17,8 +17,8 @@ This is a FastAPI project that provides a simple chat completion API using OpenA
 1. **Clone the repository:**
 
    ```bash
-   git clone <repository_url>
-   cd <repository_directory>
+   git clone https://github.com/NoahFD/ComputerModel3DFastAPI.git
+   cd ComputerModel3DFastAPI
    ```
 
 2. **Create and activate a virtual environment:**
